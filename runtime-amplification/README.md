@@ -1,0 +1,3 @@
+# Learn Runtime Testing Amplification
+This repository contains all courseware to master test amplification technology. Here you'll learn how to exploit the behaviour of your code to generate more test cases. You'll find how to speed up the investigation phase on your bugs raised during operations, with **[Botsing](https://github.com/STAMP-project/botsing)**, a technology able to automatically generate a test case able to reproduce the same error you discovered in production logs. In this way it will be easier for you to find the right bugfix.
+Moreover, you will learn how to use behavioural models, to understand better how your code actually works, and then to dientify possible areas of improvement.
