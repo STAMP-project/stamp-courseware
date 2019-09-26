@@ -1,2 +1,2 @@
-# stamp-courseware
-This repository contains all coursewar to master test amplification technology
+# Learn Software Testing AMPlification
+This repository contains all courseware to master test amplification technology.
