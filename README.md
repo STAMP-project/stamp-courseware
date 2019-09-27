@@ -11,4 +11,10 @@ From here you can start to learn principles (the three pillars) of software test
 
 Don't know what is DevOps and why should it matter? Stay tuned, we'll provide you with some information about it.
 
+## Funding
+
+STAMP COurseware is partially funded by research project STAMP (European Commission - H2020) ICT-16-10 No.731529.
+
+![STAMP - European Commission - H2020](images/logo_readme_md.png)
+
 
