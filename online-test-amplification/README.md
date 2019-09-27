@@ -19,10 +19,6 @@ Moreover, you will learn how to use behavioural models, to understand better how
 ## Reproduce crashes with Botsing
 **[Botsing](https://github.com/STAMP-project/botsing)** does the magic to generate automatically test cases (real Java code!) taking as input a (log containing a) stacktrace coming from your production or test environments. When a developer faces a new bug, the first thing he tries to achieve is to reproduce the bug itself. Often this is a time consuming and frustrating activity (also because more than often end users don't provide enough information).
 
-**[Descartes](https://github.com/STAMP-project/pitest-descartes)** inject changes in your code at runtime, while you're executing your test suites, and check whether your test suites realize that something happened.
-If your test cases terminate with a failure, good news: they have been able to detect the injected change, they are strong enough.
-But if your test cases terminate with a success, bad news: they didn't realize that something wrong happened to your code.
-
 ### Botsing Demo
 Curious to see how it works? Please follow the **["Botsing demo" tutorial](https://github.com/STAMP-project/botsing-demo)**.
 
