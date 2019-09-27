@@ -29,7 +29,7 @@ From **[this page](unit-test-amplification/assets/README.md)** you can access pr
 ### Test Configuration Amplification Tutorials
 If you want to learn how to exploit STAMP test configuration amplification capabilities, please go to **[Test Configuration Amplification](conf-test-amplification/README.md)** section.
 ### Test Configuration Amplification Learning Materials
-From **[this page](test-configuration-amplification/assets/README.md)** you can access presentations, documents and other learning materials about test configuration amplification.
+From **[this page](conf-test-amplification/assets/README.md)** you can access presentations, documents and other learning materials about test configuration amplification.
 ## Online Test Amplification
 ### Online Test Amplification Tutorials
 If you want to learn how to exploit STAMP test configuration amplification capabilities, please go to **[Runtime Testing Amplification](online-test-amplification/README.md)** section.
