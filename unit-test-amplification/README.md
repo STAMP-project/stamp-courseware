@@ -6,12 +6,12 @@ Here you will learn how to assss your test suites, leveraging extreme mutation t
 And then you will learn how to strenghten your test suites, applying test ampification technology provided by **[DSpot](https://github.com/STAMP-project/dspot)**.
 
 ## Table of contents
-  - [Unit Testing: why should I care of them?](#unit-testing-intro)
-  - [How good are my unit tests?](#learn-descartes)
-  - [STAMP, please amplify them, they are not so good](#learn-dspot)
+  - [Unit Testing: why should I care of them?](#unit-testing-why-should-i-care-of-them-unit-testing-intro)
+  - [How good are my unit tests?](#how-good-are-my-unit-tests-learn-descartes)
+  - [STAMP, please amplify them, they are not so good](#stamp-please-amplify-them-they-are-not-so-good-learn-dspot)
 
 
-## Unit Testing: why should I care of them? {#unit-testing-intro}
+## Unit Testing: why should I care of them?
 
 ![Test Pyramid](images/test-pyramid.png)
 
@@ -23,7 +23,7 @@ They are the first level of software testing, executed prior to integration test
 
 For a good introduction to unit testing, you can refer to this [good tutorial](https://www.vogella.com/tutorials/JUnit/article.html).
 
-## How good are my unit tests? {#learn-descartes}
+## How good are my unit tests?
 Good question. STAMP is here to help you to assess how good are your test suites, with **[Descartes](https://github.com/STAMP-project/pitest-descartes)**.
 
 **[Descartes](https://github.com/STAMP-project/pitest-descartes)** inject changes in your code at runtime, while you're executing your test suites, and check whether your test suites realize that something happened.
@@ -41,7 +41,7 @@ Do you prefer to assess your test suites within your preferred IDE? No problem! 
 **[Descartes](https://github.com/STAMP-project/pitest-descartes)** is a mutation engine for **[PIT](https://pitest.org/)**, "*the Gold Standard of mutation testing for Java and JVM*.
 If you want to put your hands on classical mutation testing techniques, please follow this [tutorial](https://www.mkyong.com/maven/maven-pitest-mutation-testing-example/).
 
-## STAMP, please amplify them, they are not so good {#learn-dspot}
+## STAMP, please amplify them, they are not so good
 Never mind, STAMP will take care of it, with **[DSpot](https://github.com/STAMP-project/dspot)**.
 
 DSpot is a tool able to "amplify" your test suites, adding automatically new assertions and new input to your test cases. It is a gentleman: it doesn't modify directly your test cases, rather it store the amplified copy in a separate folder, in order to let you inspect them. You then could decide whether accept them in your code base or not.
