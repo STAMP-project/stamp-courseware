@@ -32,7 +32,7 @@ If you want to learn how to exploit STAMP test configuration amplification capab
 From **[this page](conf-test-amplification/assets/README.md)** you can access presentations, documents and other learning materials about test configuration amplification.
 ## Online Test Amplification
 ### Online Test Amplification Tutorials
-If you want to learn how to exploit STAMP test configuration amplification capabilities, please go to **[Runtime Testing Amplification](online-test-amplification/README.md)** section.
+If you want to learn how to exploit STAMP online test amplification capabilities, please go to **[Runtime Testing Amplification](online-test-amplification/README.md)** section.
 ### Unit Test Amplification Learning Materials
 From **[this page](online-test-amplification/assets/README.md)** you can access presentations, documents and other learning materials about automatic crash reproductions and common behavior testing.
 ## STAMP in DevOps
@@ -45,5 +45,3 @@ From **[this page](devops/assets/README.md)** you can access presentations, docu
 Don't know what is DevOps and why should it matter? Stay tuned, we'll provide you with some information about it.
 
 ![STAMP - European Commission - H2020](images/logo_readme_md.png)
-
-
