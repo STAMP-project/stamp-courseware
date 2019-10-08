@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y python3 python3-pip libgomp1 maven && a
 RUN pip install --upgrade pip
 RUN pip install setuptools
 
-# Install CAMP from setup script. Docker, Docker Swarm and last version of Z3 Solver are installed as well
+# Install CAMP from setup script. Docker, Docker Compose and last version of Z3 Solver are installed as well
 RUN	curl -L https://github.com/STAMP-project/camp/raw/master/install.sh | bash -s -- --install-z3 --z3-version '4.7.1' --z3-python-bindings /usr/lib/python3.5 --install-docker && pip install setuptools
 
 # drop back to the regular jenkins user
