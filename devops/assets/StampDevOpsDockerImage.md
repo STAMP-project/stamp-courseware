@@ -12,6 +12,6 @@ It contains:
 
 To run it, simply execute:
 ```
-docker run -p 8080:8080 -p 50000:50000 --env -v /var/run/docker.sock:/var/run/docker.sock  danzone/stamp-devops:0.0.1 
+docker run -p 8080:8080 -p 50000:50000 -v /var/run/docker.sock:/var/run/docker.sock  danzone/stamp-devops:0.0.1 
 ```
 The `-v /var/run/docker.sock:/var/run/docker.sock` option is needed to share the docker deamons of the host with the CAMP container. CAMP can therefore invoke docker and create “siblings” containers.
