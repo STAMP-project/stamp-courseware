@@ -42,6 +42,7 @@ But if your test cases terminate with a success, bad news: they didn't realize t
 
 ### Descartes for Maven projects
 Curious to see how it works? Please follow the **["Descartes for dummies" tutorial](https://github.com/STAMP-project/pitest-descartes/blob/master/docs/descartes-for-dummies-mvn.md)**.
+Another interesting tutorial is [Descartes hands-on](https://github.com/STAMP-project/descartes-hands-on) with all the code needed to understand better how Descartes works.
 
 ### Descartes for Maven multi-module projects
 Does your Maven project have several modules? Yes, we know that PIT works just with single module projects. That's why we developed **[PitMP](https://github.com/STAMP-project/pitmp-maven-plugin)**, an extension to PIT to work also with multi-module projects. Being Descartes a PIT plugin, in this way you will be able to apply extreme mutation testing also to your Maven multi-module projects. If you want to understand how to use Descartes-PitMP with your multi-module projects, please see the **[DNoo project](https://github.com/STAMP-project/dnoo)**. In the home page you'll find instructions to see how to run extreme mutation testing in this context.
