@@ -1,0 +1,7 @@
+# Test Amplification use cases
+From this page you can navigate to several use cases investigated during the development of [CAMP](https://github.com/STAMP-project/camp):
+
+  - [ProActive CAMP example](https://stamp-project.github.io/camp/pages/activeeon.html): [ProActive](https://proactive.activeeon.com/) is a workflow engine to automate and orchestrate business processes on on-premises and cloud environments, developed by [ActiveEon](https://www.activeeon.com/). In this example you'll find ActiveEon results using CAMP within their development and CI/CD processes.
+  - [XWiki CAMP example](https://stamp-project.github.io/camp/pages/xwiki.html): [XWiki](https://www.xwiki.org/) is an advanced open source wiki, developed by [XWiki SAS](https://xwiki.com/en/). In this example you'll find XWiki results using CAMP within their development and CI/CD processes.
+  - [CityGO CAMP example](https://stamp-project.github.io/camp/pages/citygo.html): [CityGo](http://www.city-go.eu/) is a transportation planner and intelligent mobility solution, developed by [Atos](https://atos.net/) and part of [Fiware marketplace](https://www.fiware.org/). In this example you'll find Atos results using CAMP within their development and CI/CD processes.
+  - [Lutece CAMP example](https://stamp-project.github.io/camp/pages/ow2_lutece.html): [Lutece](https://dev.lutece.paris.fr/) is an open source portal engine, developed by City of Paris and part of [OW2 community](https://www.ow2.org/). In this example you'll find OW2 results using CAMP within Lutece development and CI/CD processes.
