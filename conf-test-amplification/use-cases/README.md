@@ -1,4 +1,4 @@
-# Test Amplification use cases
+# Test configuration amplification use cases
 From this page you can navigate to several use cases investigated during the development of [CAMP](https://github.com/STAMP-project/camp):
 
   - [ProActive CAMP example](https://stamp-project.github.io/camp/pages/activeeon.html): [ProActive](https://proactive.activeeon.com/) is a workflow engine to automate and orchestrate business processes on on-premises and cloud environments, developed by [ActiveEon](https://www.activeeon.com/). In this example you'll find ActiveEon results using CAMP within their development and CI/CD processes.
