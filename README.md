@@ -16,6 +16,7 @@ From here you can start to learn principles (the three pillars) of software test
   - [Online Test Amplification](#online-test-amplification)
     - [Tutorials](#online-test-amplification-tutorials)
     - [Learning materials](#online-test-amplification-learning-materials)
+    - [Use cases](#online-test-amplification-use-cases)
   - [DevOps](#stamp-in-devops)
     - [Tutorials](#stamp-devops-tutorials)
     - [Learning materials](#stamp-devops-learning-materials)
