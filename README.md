@@ -43,7 +43,7 @@ If you want to learn how to exploit STAMP online test amplification capabilities
 ### Online Test Amplification Learning Materials
 From **[this page](online-test-amplification/assets/README.md)** you can access presentations, documents and other learning materials about automatic crash reproductions and common behavior testing.
 ### Online Test Amplification Use Cases
-From **[this page](online-test-amplification/use-cases/README.md)** you can access use cases about about automatic crash reproductions and common behavior testing.
+From **[this page](online-test-amplification/use-cases/README.md)** you can access use cases about automatic crash reproductions and common behavior testing.
 ## STAMP in DevOps
 ### STAMP DevOps Tutorials
 If you want to learn how to exploit STAMP technology in your DevOps processes, please go to
